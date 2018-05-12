@@ -1,0 +1,38 @@
+_repo: Uncle-Wiggily-s-Adventures_15281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: The Uncle Wiggily series of children's stories began to appear in newspapers
+  in the early decades of the twentieth century. Soon afterwards, the tales began
+  to be collected in book form. The stories in Uncle Wiggily's Adventures follow the
+  wise old rabbit Uncle Wiggily as he navigates a world populated by woodland creatures
+  of both the nice and not-so-nice varieties. This collection is sure to enchant and
+  delight readers young and old.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncle Wiggily (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: Uncle Wiggily's Adventures
+url: http://www.gutenberg.org/ebooks/15281
