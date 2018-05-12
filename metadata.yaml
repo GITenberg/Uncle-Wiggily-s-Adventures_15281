@@ -20,6 +20,8 @@ description: The Uncle Wiggily series of children's stories began to appear in n
   wise old rabbit Uncle Wiggily as he navigates a world populated by woodland creatures
   of both the nice and not-so-nice varieties. This collection is sure to enchant and
   delight readers young and old.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15281#Uncle-Wiggily-s-Adventures
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-03-07'
 gutenberg_type: Text
